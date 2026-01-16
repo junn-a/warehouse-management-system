@@ -115,6 +115,11 @@ warehouse-management-system/
 ├── index.php
 └── README.md
 
+---
+## 📄 License
+
+MIT License
+---
 ## 📸 Screenshots
 
 > Screenshots in `/docs` folder
@@ -127,6 +132,7 @@ warehouse-management-system/
 
 ### Monitoring Hasil
 ![Monitoring Hasil](docs/mon_hasil.JPG)
+
 
 
 
