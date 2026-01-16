@@ -115,4 +115,18 @@ warehouse-management-system/
 ├── index.php
 └── README.md
 
+## 📸 Screenshots
+
+> Screenshots in `/docs` folder
+
+### Dashboard
+![Dashboard](docs/dashboard.png)
+
+### Status Ketersediaan Area
+![Status Ketersediaan Area](docs/status.JPG)
+
+### Monitoring Hasil
+![Monitoring Hasil](docs/mon_hasil.JPG)
+
+
 
