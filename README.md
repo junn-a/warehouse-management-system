@@ -115,23 +115,4 @@ warehouse-management-system/
 ├── index.php
 └── README.md
 
-## 🔁 **Sequence Diagrams**
-Inbound Process
-```
-sequenceDiagram
-    actor Operator
-    participant WMS
-    participant DB
-    participant Printer
-    actor Loader
-
-    Operator->>WMS: Input SKU & Quantity
-    WMS->>DB: Validate SKU
-    DB-->>WMS: Valid
-    WMS->>DB: Assign Location
-    DB-->>WMS: Location
-    WMS->>Printer: Print Barcode Label
-    Loader->>WMS: Scan & Store Pallet
-    WMS->>DB: Update Stock
-```
 
