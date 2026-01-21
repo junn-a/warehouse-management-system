@@ -121,6 +121,14 @@ warehouse-management-system/
 MIT License
 ---
 
+## 📸 Screenshots
+
+> Screenshots in `/docs` folder
+
+### Dashboard
+![Dashboard](docs/dashboard.png)
+
+---
 
 
 
