@@ -99,24 +99,10 @@
 						<div style="font-size:100px;color:white" ><i class="fa fa-table"></i></div><div style="color:white">Monitoring Export</div>
 					</a>
 				</div>
-			<?php }elseif($_SESSION['level'] == 'Operator'){?>
-			<div class="col-md-3 col-xs-6 col-lg-3" style="background-color:#212a5b;color:white;text-align:center;height:200px;">
-					<a href="?page=wip" class=""  style="text-decoration:none">
-						<div style="font-size:100px;color:white" ><i class="fa fa-industry"></i></div><div style="color:white">WIP Produce</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-xs-6 col-lg-3" style="background-color:#8a5810;color:white;text-align:center;height:200px;">
-					<a href="?page=wipUsage" class=""  style="text-decoration:none">
-						<div style="font-size:100px;color:white" ><i class="fa fa-shopping-bag"></i></div><div style="color:white">WIP Usage</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-xs-6 col-lg-3" style="background-color:#881c40;color:white;text-align:center;height:200px;">
-					<a href="?page=wipStock" class=""  style="text-decoration:none">
-						<div style="font-size:100px;color:white" ><i class="fa fa-shopping-basket"></i></div><div style="color:white">WIP Stock</div>
-					</a>
-				</div>
+			
 			
 			</div>
 		</div>
 
 	</div>
+
